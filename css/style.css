@@ -32,7 +32,7 @@ div.colom{
   width: calc(100% / 3 - 1rem); 
   background-color: #0f0e17;
   float: left;
-  margin: 2rem 0.5rem;
+  margin: 2rem 0.5rem 0 .5rem;
   color: white;
   line-height: 1rem;
   box-shadow: 1px 2px 8px 1px rgba(119, 136, 153, 0.756);
