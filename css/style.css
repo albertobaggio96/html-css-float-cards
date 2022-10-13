@@ -3,3 +3,27 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family: 'Fredoka', sans-serif;
+}
+
+main{
+  width: 70%;
+  margin: 2rem auto;
+}
+
+.clearfix::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+header{
+  text-align: center;
+}
+
+header>h1{
+  color: #e53170;
+  margin-bottom: 2.5rem;
+}
