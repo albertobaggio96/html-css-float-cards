@@ -48,8 +48,8 @@ div>div, address{
   margin: .5rem 0;
 }
 
-div>div:nth-child(1){
-  font-weight: bold;
+div>h2{
+  font-size: 1rem;
 }
 
 address{
